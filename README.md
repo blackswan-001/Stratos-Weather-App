@@ -223,3 +223,31 @@ Active development completed as a portfolio-grade full-stack demonstration proje
 ## License
 
 This project is intended for educational and portfolio use.
+
+## Images
+
+<img width="1919" height="875" alt="Screenshot 2026-05-28 224249" src="https://github.com/user-attachments/assets/003a0025-5678-496c-9ec9-f9989c7bc22f" />
+
+<img width="1919" height="884" alt="Screenshot 2026-05-28 224002" src="https://github.com/user-attachments/assets/5dc82b7d-5804-4c15-9631-6eaa327effc8" />
+
+<img width="1919" height="870" alt="Screenshot 2026-05-28 224019" src="https://github.com/user-attachments/assets/322c8d96-5428-4cf8-bdb2-5d778f4a3ad6" />
+
+<img width="1919" height="874" alt="Screenshot 2026-05-28 224034" src="https://github.com/user-attachments/assets/e5d926f0-553c-4d19-b779-826fe07f42e1" />
+
+<img width="1919" height="882" alt="Screenshot 2026-05-28 224051" src="https://github.com/user-attachments/assets/72904b3e-1aad-46ee-af79-4630d37371b9" />
+
+<img width="1919" height="872" alt="Screenshot 2026-05-28 224101" src="https://github.com/user-attachments/assets/e30b3ec8-ed0a-41c2-aa77-424df83e8e83" />
+
+<img width="1919" height="877" alt="Screenshot 2026-05-28 224116" src="https://github.com/user-attachments/assets/6c3959ff-aeb2-4ff4-9c74-41902f02c6b4" />
+
+<img width="1919" height="882" alt="Screenshot 2026-05-28 224140" src="https://github.com/user-attachments/assets/4d5def6a-3497-4663-a5b8-4cc7e133967d" />
+
+<img width="1918" height="867" alt="Screenshot 2026-05-28 224153" src="https://github.com/user-attachments/assets/ddea5753-7bb0-4fdb-8588-643edf6e652a" />
+
+<img width="1919" height="872" alt="Screenshot 2026-05-28 224203" src="https://github.com/user-attachments/assets/b1b33810-3872-4767-ad3b-ac503082661a" />
+
+<img width="1919" height="871" alt="Screenshot 2026-05-28 224212" src="https://github.com/user-attachments/assets/af073059-a7de-4d03-a0c4-3cda03648a7f" />
+
+<img width="1917" height="877" alt="Screenshot 2026-05-28 224227" src="https://github.com/user-attachments/assets/07d4d0f9-cb9e-4e4f-ad95-cbf689b3ca2e" />
+
+<img width="1919" height="876" alt="Screenshot 2026-05-28 224238" src="https://github.com/user-attachments/assets/58a6759a-f5bd-44b9-a3b3-8ef7d3c6ac57" />
