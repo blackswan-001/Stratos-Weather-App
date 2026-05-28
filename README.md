@@ -2,7 +2,7 @@
 
 A full-stack weather information platform built with PHP, SQLite, Leaflet, and Chart.js, powered by the OpenWeatherMap API.
 
-Designed as a portfolio-grade engineering project demonstrating modular backend design, API integration, and interactive frontend architecture.
+Designed as a portfolio-grade engineering project demonstrating modular backend design, API integration, and interactive frontend architecture. Not a production application but a rapid full-stack prototype with production-style architecture decisions
 
 ---
 
